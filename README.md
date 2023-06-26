@@ -1,6 +1,6 @@
 # Night Market
 
-An ecommerce website for a fictional night market that sell futuristic products that rotate based on the expiry of a timer on each. Built with React, Redux, and Firebase.
+An ecommerce website for a fictional night market that sell futuristic products that rotate based on the expiry of a timer on each. Built with React and context API
 
 ## Available Scripts
 
