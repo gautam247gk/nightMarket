@@ -24,14 +24,21 @@ export const CartContainer = () => {
         })}
       </div>
 
-      {/* {totalAmount > 0 ? (
+      {totalAmount > 0 ? (
         <div className="checkout">
           <p> Subtotal: ${totalAmount} </p>
-          <button onClick={() => navigate("/")}> Continue Shopping </button>
           <button
+            className="add-to-cart-btn"
+            onClick={() => navigate("/nightmarket")}
+          >
+            {" "}
+            Continue Shopping{" "}
+          </button>
+          <button
+            className="add-to-cart-btn"
             onClick={() => {
               checkout();
-              navigate("/checkout");
+              navigate("/nightmarket");
             }}
           >
             {" "}
@@ -40,7 +47,7 @@ export const CartContainer = () => {
         </div>
       ) : (
         <h1> Your Shopping Cart is Empty</h1>
-      )} */}
+      )}
     </div>
   );
 };

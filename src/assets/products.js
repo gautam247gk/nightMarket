@@ -3,19 +3,19 @@ export const PRODUCTS = [
     id: "1",
     name: "Hyper Vision Glasses",
     price: "892",
-    time_left: "72",
+    time_left: "1",
   },
   {
     id: "2",
     name: "Hyper Speed Drone",
     price: "720",
-    time_left: "48",
+    time_left: "8",
   },
   {
     id: "3",
     name: "Nanotech Watch",
     price: "320",
-    time_left: "144",
+    time_left: "4",
   },
   {
     id: "4",

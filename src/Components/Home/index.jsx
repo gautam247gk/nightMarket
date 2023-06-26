@@ -2,8 +2,9 @@ import "./home.css";
 import CardContainer from "../CardContainer";
 import cartIcon from "../../assets/shopping-cart.png";
 import { useNavigate } from "react-router-dom";
+import { PRODUCTS } from "../../assets/products";
 
-function Home() {
+function Home(props) {
   const navigate = useNavigate();
   return (
     <div className="app">
@@ -15,7 +16,7 @@ function Home() {
           <h1>NIGHT.MARKET</h1>
         </div>
         <div className="middle">
-          <CardContainer />
+          <CardContainer prods={props.prods} setProducts={props.setProducts} />
         </div>
       </div>
     </div>

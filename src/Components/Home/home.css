@@ -60,7 +60,12 @@ h1 {
   display: flex;
   justify-content: center;
 }
-
+.app .bottom {
+  width: 100%;
+  margin: 0.2rem auto;
+  display: flex;
+  justify-content: center;
+}
 .app .top h1 {
   font-size: 6vw; /* Adjust the font-size as desired */
   text-align: center;
@@ -90,7 +95,8 @@ h1 {
 
 @media (max-width: 768px) {
   .container {
-    top: 5%;
+    top: 10%;
+    height: 90vh;
   }
   .app .middle {
     height: 100vh;
