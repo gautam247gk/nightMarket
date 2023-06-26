@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nightmarket/static/css/main.7631b6ac.css",
+    "main.js": "/nightmarket/static/js/main.9175ef8c.js",
+    "static/js/787.d78df633.chunk.js": "/nightmarket/static/js/787.d78df633.chunk.js",
+    "static/media/bg.jpg": "/nightmarket/static/media/bg.2d0cb43d4dc63ffb6660.jpg",
+    "static/media/3.jpg": "/nightmarket/static/media/3.8e10361adb8985beb4e8.jpg",
+    "static/media/5.jpg": "/nightmarket/static/media/5.ea45c490222438d847ab.jpg",
+    "static/media/2.jpg": "/nightmarket/static/media/2.355557def7b103daaa71.jpg",
+    "static/media/4.jpg": "/nightmarket/static/media/4.fde1a02d5fffe168e68e.jpg",
+    "static/media/1.jpg": "/nightmarket/static/media/1.d730a9787b0904a59637.jpg",
+    "index.html": "/nightmarket/index.html",
+    "main.7631b6ac.css.map": "/nightmarket/static/css/main.7631b6ac.css.map",
+    "main.9175ef8c.js.map": "/nightmarket/static/js/main.9175ef8c.js.map",
+    "787.d78df633.chunk.js.map": "/nightmarket/static/js/787.d78df633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7631b6ac.css",
+    "static/js/main.9175ef8c.js"
+  ]
+}
