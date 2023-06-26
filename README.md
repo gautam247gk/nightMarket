@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Night Market
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An ecommerce website for a fictional night market that sell futuristic products that rotate based on the expiry of a timer on each. Built with React, Redux, and Firebase.
 
 ## Available Scripts
 
